@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olympiapestcontrolco.com/sitemap.xml
